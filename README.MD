@@ -1,6 +1,3 @@
-Oke, aku rapihkan README kamu biar lebih clean, konsisten, dan enak dibaca:
-
-```markdown
 # 🎓 Student App (FastAPI)
 
 A simple **CRUD REST API** built with FastAPI, SQLAlchemy, and Pydantic for managing student data.  
