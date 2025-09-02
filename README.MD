@@ -7,7 +7,7 @@ A simple **CRUD REST API** built with FastAPI, SQLAlchemy, and Pydantic for mana
 ## 📂 Project Structure
 ```
 
-student\_app/
+student\
 │── main.py              # Entry point FastAPI
 │── models.py            # SQLAlchemy models
 │── schemas.py           # Pydantic schemas
